@@ -1,0 +1,7 @@
+Notes
+
+- Commands
+	passwd -This allow to me change my passworrd of my user
+	sudo chage -l (user) - This allow see the information that I have currently whith my password ,and see the changes for my password 
+	sudo chage -m 2 -M 30 -W 7 (user) - This allow change "m: Min DAYS M: MAX DAYS W : WARN DAYS"
+IMPORTANT "remember change the password to the new policy as ask on the subject"
