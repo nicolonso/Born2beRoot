@@ -1,1 +1,2 @@
 
+“Debian is a stable, community-supported Linux distribution with a focus on simplicity and accessibility. It uses APT for package management and AppArmor for security, which is easier to configure than SELinux. Rocky is based on Red Hat and follows enterprise standards using DNF and SELinux. Since I’m learning system administration basics, Debian’s simplicity and support make it ideal for this project.”
